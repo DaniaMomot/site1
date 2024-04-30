@@ -1,0 +1,25 @@
+body{
+  background-color: black;
+  
+}
+h1 {
+    text-align: center;
+    color: maroon;
+}
+img {
+    height: 190px;
+    width: 190px;
+}
+td {
+    border: 2px solid  black;
+    text-align: center;
+    background-color: white;
+}
+a{
+    border:1px solid maroon;
+    border-radius: 30px;
+    color: maroon;
+    text-decoration: none;
+    padding: 3px;
+    margin:3px;
+}
